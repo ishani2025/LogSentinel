@@ -59,7 +59,7 @@ It combines:
 ## 🏗️ Architecture
 
 ```
-LogSentiel
+LogSentinel
 ├── src/
 │   ├── agents/
 │   │   ├── agent1.py
