@@ -1,4 +1,4 @@
-# 🤖   LogSentiel(JAVA AND PYTHON)
+# 🤖   LogSentinel(JAVA AND PYTHON)
 
 <div align="center"> <b>LogSentinel</b> <p><strong>Dual-Agent AI System for Enterprise IT Troubleshooting</strong></p> <p> <img src="https://img.shields.io/badge/Python-3.8+-blue" alt="Python Version"/> <img src="https://img.shields.io/badge/LLM-Ollama%20(Mistral)-green" alt="LLM"/> <img src="https://img.shields.io/badge/API-ScaleDown-orange" alt="ScaleDown API"/> <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License"/> <img src="https://img.shields.io/badge/Status-Active-success" alt="Status"/> </p> </div>
 
